@@ -204,3 +204,5 @@ plot_cumulative(df)
 * Weir et al., “Testing Metrics for Password Creation Policies,” CCS, 2010
 * NIST SP 800-63B Digital Identity Guidelines
 
+
+### Done till phase 3
