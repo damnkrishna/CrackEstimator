@@ -5,8 +5,6 @@ Simulate, evaluate, and visualize password policy effectiveness.
 
 Python-based tool that evaluates password policies by simulating attacker success and estimating the time required to crack passwords under different scenarios. It combines synthetic or public password datasets with configurable attacker models (casual, skilled, state-level) to produce reproducible, ethical, and educational insights into password security.
 
----
-
 ## **Key Features**
 
 * **Policy Engine:** Checks passwords against rules like length, complexity, character requirements, and blacklist.
